@@ -1,0 +1,8 @@
+print("---------------------")
+print("--- Start Project ---")
+print("This is python script")
+print("---------------------")
+print("Adding feature one to the project!!!")
+print("Adding feature two to the project!!!")
+print("--- End of Project---")
+print("---------------------")
