@@ -3,3 +3,5 @@ Now it is protected
 
 print hello world!
 add rebase command
+
+now push branch changes to remote first before rebase
