@@ -1,3 +1,9 @@
 try git rebase
 
+## test before push branch commit, rebase first
 git rebase master branch
+git push origin branch
+
+git checkout master
+git merge branch
+git push origin master
